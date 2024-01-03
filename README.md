@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avishka Chasith Gunathilaka</h1>
 <h3 align="center">A passionate Computer Science student from Sri Lanka</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkachasith&label=Profile%20views&color=0e75b6&style=flat" alt="avishkachasith" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=avishkachasith&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Freadme-profile%3Fl%3Dmarkdown%26o%3Ddesc%26s%3D&psig=AOvVaw3sZ082aQhvXno7P9aFt_E_&ust=1704358405568000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjH2__rwIMDFQAAAAAdAAAAABAD)" alt="avishkachasith" /> </p>
 
 - 🌱 I’m currently learning **React, JavaScript and Bootstrap**
 
