@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Computer Science student from Sri Lanka</h3>
 
 
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/AvishkaChasith/AvishkaChasith/assets/155515921/85e2f322-c8b2-40e2-b9c3-32fc3e44933c)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkachasith&label=Profile%20views&color=0e75b6&style=flat" alt="avishkachasith" /> </p>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsudee404&psig=AOvVaw3PZx8snbGfvSfk5494CM8d&ust=1704358649236000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDt_fbswIMDFQAAAAAdAAAAABAI"</p>
+
 
 - 🌱 I’m currently learning **React, JavaScript and Bootstrap**
 
